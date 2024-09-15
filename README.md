@@ -1,8 +1,8 @@
 
 
-This app is created using React and Vite template. It presents a list of to-dos, which are received vie request from external API in JSON format. The main reason of this app is to exercise my new knowledge about react hooks - useState and useEffect.
-How to run the app on your computer
+This app is created using React and Vite template. It presents a list of to-dos, which are received vie request from external API in JSON format. Two react hooks are used - useState and useEffect.
 
+How to run the app on your computer
    1. Download the project ZIP file
    2. Open the project with IDE/Code Editor
    3. Open terminal
