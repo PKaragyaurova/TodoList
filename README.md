@@ -1,6 +1,6 @@
 
 
-This app is created using React and Vite template. It presents a list of to-dos, which are received vie request from external API in JSON format. Two react hooks are used - useState and useEffect.
+This app is created using React and Vite template. It presents a list of to-dos, which are received vie request from external API in JSON format. Two react hooks are used - useState and useEffect. You can change the text decoration (strike through) by clicking on the item.
 
 How to run the app on your computer
    1. Download the project ZIP file
